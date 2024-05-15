@@ -61,7 +61,7 @@ yyerror(char*s)
 {
 }
 ```
-## Output
+### Output
 <img width="603" alt="image" src="https://github.com/manomadhivanan/Ex-6-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC-USING-YACC/assets/115543366/b34d16ec-0718-4cfc-8e3b-d78185a86477">
 
 ## Result
